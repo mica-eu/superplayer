@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/micaelsouza/superplayer.git"
   },
-  "keywords": [],
+  "keywords": ["superplayer"],
   "author": "",
   "license": "ISC",
   "bugs": {
