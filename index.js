@@ -1,1 +1,1 @@
-module.exports = require('./lib/Superplayer');
+module.exports = require('./src/Superplayer');
